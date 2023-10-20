@@ -1,0 +1,18 @@
+h1 {
+    font-family: "Arial", sans-serif;
+    color: #464647;
+    font-size: 26px;
+}
+
+p {
+    font-family: "Arial", sans-serif;
+    color: #464647;
+    font-size: 16px;
+    margin-left: 0;
+}
+
+table {
+    padding: 1px;
+    margin: 3px; 
+    border-spacing: 2px;
+}
